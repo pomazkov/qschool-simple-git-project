@@ -6,7 +6,7 @@
     
     <meta name="author" content="Волков Михаил">
     
-    <title>Демонстрационный проект</title>
+    <title>Демонстрационный Git проект</title>
     
     <link href="/tailwind.min.css" rel="stylesheet">
     <style>
@@ -18,7 +18,7 @@
 <body class="antialiased sans-serif" style="min-width: 375px">
     <main class="mx-auto max-w-4xl h-screen flex items-center justify-center">
         <div class="space-y-8">
-            <h1 class="text-4xl text-center">Hello World</h1>
+            <h1 class="text-4xl text-center">Hello World Git</h1>
             <div class="border flex justify-center class bg-white p-4 space-x-2 sm:space-x-4 text-3xl sm:text-4xl md:text-6xl">
                 <div class="word-cell border text-center">Q</div>
                 <div class="word-cell border text-center">S</div>
